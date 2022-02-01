@@ -4,3 +4,4 @@
 [![workflow](https://github.com/syamnich/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/syamnich/frontend-project-lvl1/actions/workflows/node.js.yml)
 
 [See brain even game example](https://asciinema.org/a/406465)
+just to test
